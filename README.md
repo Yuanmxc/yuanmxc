@@ -1,8 +1,8 @@
-Welcome to my Github page! I am Origin-yy, an ordinary student who studies in the computer world.
+👋Welcome to my Github page!👋You are my [![Visitor Count](https://profile-counter.glitch.me/Origin-yy/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
-You are my [![Visitor Count](https://profile-counter.glitch.me/Origin-yy/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+ I am Origin-yy, an ordinary student who studies in the computer world.
 
-I am using these:
+📚I am using these:
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
@@ -10,15 +10,15 @@ I am using these:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
 ![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
-I dabbled a bit with these：
+🧐I dabbled a bit with these：
 
-Linux network programming and system programming, operating system, computer network, Redis
+💻Linux network programming and system programming, operating system, computer network, Redis
 
-And I'm continuing to learn some other things, never stop.
+📈And I'm continuing to learn some other things, never stop.
 
-**There are things I don't know now, someday I'll know everything I want to know**
+👩‍💻**There are things I don't know now, someday I'll know everything I want to know**
 
-Connect with me here-
+🤜🤛Connect with me here-
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white):**`origin020726@gamil.com`**
 
