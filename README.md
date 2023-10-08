@@ -1,4 +1,4 @@
-👋Welcome to my Github page!👋You are my [![Visitor Count](https://profile-counter.glitch.me/Origin-yy/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+Welcome to my Github page!
 
  I am Origin-yy, an ordinary student who studies in the computer world.
 
