@@ -25,7 +25,3 @@ Welcome to my Github page!
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white): **`133 1569 5863`**
 
   ![WeChat](https://img.shields.io/badge/WeChat-07C160?&logo=&wechat&logoColor=white):**`yy1657615110`**
-
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Origin-yy&show_icons=true&theme=dark&count_private=true)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Origin-yy&theme=dark&layout=compact)
-
