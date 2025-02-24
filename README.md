@@ -20,7 +20,7 @@ Welcome to my Github page!
 
 - 📫Connect with me here-
 
-  ![email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white):**`yuanmxc@qq.com`**
+  ![QQ邮箱](https://img.shields.io/badge/QQ%20Mail-12B7F5?logo=tencentqq&logoColor=white):**`yuanmxc@qq.com`**
 
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white): **`133 1569 5863`**
 
