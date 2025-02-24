@@ -12,7 +12,7 @@ Welcome to my Github page!
 
 - 🧐I dabbled a bit with these：
 
-  💻Linux network programming and system programming, operating system, computer network, Redis
+  💻Linux network programming and system programming, operating system, computer network, Redis, LevelDB.
 
 - 📈And I'm continuing to learn some other things, never stop.
 
